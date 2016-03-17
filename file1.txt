@@ -1,7 +1,10 @@
 Adding some code here
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is feature 3 txt
 =======
 Fix1
+>>>>>>> 9871566... Added fix1
+=======
 >>>>>>> 9871566... Added fix1
 Fix1
