@@ -1,1 +1,2 @@
 Adding some code here
+This is feature 3 txt
